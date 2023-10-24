@@ -15,8 +15,7 @@ export class EmpAddEditComponent {
     'Post Graduate'
   ]
   constructor(private _fb:FormBuilder){ //service variable form builder
-    this.empForm= this._fb.group(
-      {
+    this.empForm= this._fb.group({
         firstName: '',
         lastName: '',
         email: '',
@@ -26,7 +25,6 @@ export class EmpAddEditComponent {
         company: '',
         experience: '',
         package: '',
-      }
-    )
+      })
   }
 }
