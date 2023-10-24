@@ -122,6 +122,11 @@
       }
     }
   },
+  "schematics": {
+    "@schematics/angular:component": {
+      "style": "scss"
+    }
+  },
   "cli": {
     "analytics": "3ed283b2-1027-4b92-bbf8-472cbed9f38a"
   }
