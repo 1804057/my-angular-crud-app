@@ -54,20 +54,8 @@
       "id": 3
     },
     {
-      "firstName": "Zerin",
-      "lastName": "Shaima",
-      "email": "abc@gmail.com",
-      "dob": "2023-10-18T18:00:00.000Z",
-      "gender": "female",
-      "education": "Diploma",
-      "company": "Google",
-      "experience": 4,
-      "package": 126,
-      "id": 5
-    },
-    {
-      "firstName": "scc",
-      "lastName": "czxczc",
+      "firstName": "Siam ",
+      "lastName": "Baad",
       "email": "zczcz",
       "dob": "2023-10-03T18:00:00.000Z",
       "gender": "male",
@@ -76,6 +64,18 @@
       "experience": 3333334,
       "package": 234,
       "id": 6
+    },
+    {
+      "firstName": "cxv",
+      "lastName": "vv",
+      "email": "sdss@gmail.com",
+      "dob": "2023-10-02T18:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "scds",
+      "experience": 131,
+      "package": 144,
+      "id": 7
     }
   ]
 }
