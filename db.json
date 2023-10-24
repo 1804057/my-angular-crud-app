@@ -32,13 +32,13 @@
     {
       "firstName": "Zannatul",
       "lastName": "Fardaus",
-      "email": "zf@gmail.com",
-      "dob": "2023-10-06T18:00:00.000Z",
+      "email": "zsh@gmail.com",
+      "dob": "2023-10-09T18:00:00.000Z",
       "gender": "female",
-      "education": "Graduate",
-      "company": "Google",
-      "experience": "12",
-      "package": "100",
+      "education": "Diploma",
+      "company": "Microsoft",
+      "experience": 5,
+      "package": 124,
       "id": 2
     }
   ]
