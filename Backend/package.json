@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a demo crud app",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1804057/my-angular-crud-app.git"
+  },
+  "keywords": [
+    "Express",
+    "Node.js",
+    "API"
+  ],
+  "author": "Zerin Shaima Meem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1804057/my-angular-crud-app/issues"
+  },
+  "homepage": "https://github.com/1804057/my-angular-crud-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
